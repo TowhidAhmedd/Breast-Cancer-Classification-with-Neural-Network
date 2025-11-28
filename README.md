@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification-with-Neural-Network
+This project implements a Breast Cancer Classification system using Artificial Neural Networks (ANNs) to predict whether a tumor is malignant (cancerous) or benign (non-cancerous). Early detection of breast cancer is critical for effective treatment, and this model helps automate and accelerate the diagnostic process using clinical and imaging data
